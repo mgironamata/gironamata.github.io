@@ -1,5 +1,7 @@
 ## About Me
 
+I am a first year PhD student at the British Antarctic Survey (BAS) and the Computational and Biological Learning (CBL) group at the University of Cambdridge. 
+
 You can use the [editor on GitHub](https://github.com/mgironamata/gironamata.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
